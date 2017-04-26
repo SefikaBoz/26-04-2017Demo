@@ -38,7 +38,7 @@ namespace CsharpDemo2
             Console.WriteLine("t2 : " + t.ToString());
             TransformTest.TransformTst();
 
-            //s.asdasda; ile propertylere erişim
+           
 
             //object element = new Program();
             //string st = element as string;
